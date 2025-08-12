@@ -1,0 +1,1 @@
+  Create a layout where a single `div` is centered both horizontally and vertically on the page. The `div` should have a fixed width of **1200px** and a fixed height of **500px**. Use hardcoded values for both width and height.
