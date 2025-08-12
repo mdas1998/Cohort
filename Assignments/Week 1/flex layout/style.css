@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.left {
+  background-color: lightblue;
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+.right {
+  background-color: lightgreen;
+  flex-grow: 2;
+  margin-right: 20px;
+}
