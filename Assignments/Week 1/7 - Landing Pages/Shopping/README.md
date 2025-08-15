@@ -52,13 +52,12 @@ project/
 📸 Screenshot
 
 ![alt text](image.png)
-(Replace with actual screenshot)
 
 🚀 Getting Started
 
 Clone this repository
 
-git clone https://github.com/your-username/responsive-header.git
+git clone https://github.com/mdas1998/Cohort.git
 
 
 Open in your code editor
